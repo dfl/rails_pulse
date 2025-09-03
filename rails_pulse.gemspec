@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   end
 
   spec.add_dependency "rails", ">= 7.1.0", "< 9.0.0"
-  spec.add_dependency "css-zero", "~> 1.1", ">= 1.1.4"
+  spec.add_dependency "css-zero", "~> 2", ">= 1.1.4"
   spec.add_dependency "rails_charts", "~> 0.0", ">= 0.0.6"
   spec.add_dependency "turbo-rails", "~> 2.0.11"
   spec.add_dependency "request_store", "~> 1.5"

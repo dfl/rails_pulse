@@ -19,7 +19,7 @@ end
 # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
 gem "rubocop-rails-omakase", require: false
 
-gem "css-zero"
+gem "css-zero", "~> 2"
 gem "groupdate", ">= 6.5.1"
 gem "importmap-rails"
 gem "rails_charts", github: "railspulse/rails_charts", branch: "chart-initialize-event"
